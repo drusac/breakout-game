@@ -21,9 +21,9 @@ const ball = {
 
 // Create paddle props
 const paddle = {
-    x: canvas.width / 2 - 40,
+    x: canvas.width / 2 - 70,
     y: canvas.height - 20,
-    w: 80,
+    w: 180,
     h: 10,
     speed: 8,
     dx: 0
